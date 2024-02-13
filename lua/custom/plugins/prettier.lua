@@ -7,6 +7,8 @@ return {
 			"css",
 			"html",
 			"htmldjango",
+			"typescript",
+			"typescriptreact",
 		},
 	},
 }
